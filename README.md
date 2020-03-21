@@ -1,7 +1,7 @@
 # TelegramStickerBot
 just for fun
 
-Now bot is working, but it very raw and have a lot of bad solutions
+Now bot is working, but it's very raw and have a lot of bad solutions
 
 ### What can it do?
 Save picture or sticker to your stickerpack
